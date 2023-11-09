@@ -1,6 +1,4 @@
 
-[](#anchor_1)
-
 [](#anchor_2)1\. 常见测试模型有哪些？
 ---------------------------
 ![image](https://github.com/shuanghuazhao/Software-test-interview/assets/112272156/1168fc9f-9a3b-4e8c-9b7c-e5c12ad927ae)
